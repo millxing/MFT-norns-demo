@@ -1,8 +1,8 @@
 -- Twister Demo
--- v1.0.0 @spunoza
+-- v2.2.8 @spunoza
 -- llllllll.co/t/?????
--- demo for
--- MIDI Fighter Twister
+-- demo for MIDI
+-- Fighter Twister
 
 -- This script assumes the default 
 -- MFT configuration, which can
