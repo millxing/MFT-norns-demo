@@ -4,6 +4,11 @@
 -- demo for
 -- MIDI Fighter Twister
 
+-- This script assumes the default 
+-- MFT configuration, which can
+-- be chosen by selecting a factory
+-- reset from the MF Utility menu.
+
 local bank
 local maxscreen = 10
 
